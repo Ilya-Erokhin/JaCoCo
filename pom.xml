@@ -82,8 +82,8 @@
                     <excludeFilterFile>spotbugs-security-exclude.xml</excludeFilterFile>
                     <plugins>
                         <plugin>
-                            <groupId>com.h3xstream.findsecbugs</groupId>
-                            <artifactId>findsecbugs-plugin</artifactId>
+                            <groupId>com.h3stream.find-sec-bugs</groupId>
+                            <artifactId>find-sec-bugs-plugin</artifactId>
                             <version>1.12.0</version>
                         </plugin>
                     </plugins>
